@@ -1,0 +1,33 @@
+﻿"Electric power selling price index, monthly c 1 2"
+"Frequency: Monthly"
+"Table: 18-10-0204-01 (formerly CANSIM 329-0079)"
+"Release date: 2023-11-06"
+"Geography: Canada, Geographical region of Canada, Province or territory"
+""
+""
+
+"Geography","Ontario",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Index","January 2018","February 2018","March 2018","April 2018","May 2018","June 2018","July 2018","August 2018","September 2018","October 2018","November 2018","December 2018","January 2019","February 2019","March 2019","April 2019","May 2019","June 2019","July 2019","August 2019","September 2019","October 2019","November 2019","December 2019","January 2020","February 2020","March 2020","April 2020","May 2020","June 2020","July 2020","August 2020","September 2020","October 2020","November 2020","December 2020","January 2021","February 2021","March 2021","April 2021","May 2021","June 2021","July 2021","August 2021","September 2021","October 2021","November 2021","December 2021","January 2022","February 2022","March 2022","April 2022","May 2022","June 2022","July 2022","August 2022","September 2022","October 2022","November 2022","December 2022","January 2023","February 2023","March 2023","April 2023","May 2023","June 2023","July 2023","August 2023","September 2023"
+,"Index, 2014=100",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Electric power selling price indexes, national total","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+"Electric power selling price over 5000kw","116.5","100.5","106.8","115.9","101.0","121.3","112.6","109.7","109.3","106.2","116.7","109.0","109.3","113.9","107.7","106.9","110.3","111.9","127.2","114.7","115.4","124.4","112.2","109.4","104.3","114.5","110.7","115.0","107.8","116.5","119.1","113.4","108.8","116.6","105.8","111.0","99.8","102.9","98.9","87.5","99.8","114.2","102.6","110.6","96.0","100.4","101.0","98.6","104.5","102.5","104.6","101.0","107.1","117.7","126.2","127.6","111.3","96.3","98.1","113.2","97.2","104.1","107.5","108.2","105.4","117.5","118.4","106.3","106.5"
+"Electric power selling price under 5000kw","127.2","107.3","110.5","129.5","114.6","147.1","119.2","114.1","118.0","110.5","141.5","121.7","105.3","126.2","114.2","106.7","135.3","130.5","150.4","101.3","140.3","170.7","128.1","113.6","106.2","135.4","120.7","138.2","108.6","127.9","125.1","123.2","128.9","150.9","126.5","123.9","111.1","130.4","106.9","87.8","118.1","133.9","108.2","125.9","95.0","112.4","106.8","97.8","105.1","104.1","106.0","102.6","106.3","127.0","143.0","134.5","111.5","75.5","96.4","121.6","89.1","104.8","111.0","117.0","114.6","135.0","142.3","103.8","112.3"
+
+Symbol legend:
+.., not available for a specific reference period
+
+
+"Table Corrections:"
+Date,Note
+"2016-08-12","On August 12, 2016, the electric power selling price under 5000kw for the Atlantic Region and for Nova Scotia (vectors v107792874 and v107792883) were suppressed for data quality reasons. They will be published with the next release of this table."
+
+
+
+Footnotes:
+1,"For data based on the 2009=100 index, please see CANSIM table 329-0073, which is archived."
+2,"On August 12, 2016, the electric power selling price under 5000kw for the Atlantic Region and for Nova Scotia (vectors v107792874 and v107792883) were suppressed for data quality reasons. They will be published with the next release of this table."
+
+
+
+"How to cite: Statistics Canada. Table 18-10-0204-01  Electric power selling price index, monthly"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810020401
